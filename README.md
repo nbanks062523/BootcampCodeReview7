@@ -33,7 +33,21 @@ To run the code in this project:
 # Visuals for this Project
 The following visuals were created using a public dataset of Google Political ads that were created using Google analytics and the Creative_Stats table was used to create the charts below
    In this visual, we see the maximum and minimum amount of money spent in the US on campaign ads from 2018 to the present
+   
    <img width="287" alt="image" src="https://github.com/nbanks062523/BootcampCodeReview7/assets/146762843/0180d4d7-7a92-4c4e-91d7-3f9910f0d1af">
+
+
+   <img width="293" alt="image" src="https://github.com/nbanks062523/BootcampCodeReview7/assets/146762843/0ef8986a-1d09-4e6b-a209-911084831bb6">
+
+   
+   The second visual speaks to the type of campaigns that were ran and who the target genders were
+
+   
+   <img width="284" alt="image" src="https://github.com/nbanks062523/BootcampCodeReview7/assets/146762843/1ce51935-8cc4-4b43-9dc1-0c530f88c02e">
+   
+
+   <img width="278" alt="image" src="https://github.com/nbanks062523/BootcampCodeReview7/assets/146762843/46bf88c4-b99d-4db8-8f9c-ec0817ff5bd6">
+
 
 ## Known Bugs
 No known bugs
