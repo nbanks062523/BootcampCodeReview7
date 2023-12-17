@@ -31,8 +31,7 @@ To run the code in this project:
 8.  Create a storage bucket for storage of files as needed
 
 # Visuals for this Project
-# The following visuals were created using a public dataset of Google Political ads that were created using Google analytics.
-# The Creative_Stats table was used to create the charts below
+The following visuals were created using a public dataset of Google Political ads that were created using Google analytics and the Creative_Stats table was used to create the charts below
    
 ## Known Bugs
 No known bugs
